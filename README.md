@@ -64,11 +64,18 @@ Found that removing outliers improved prediction consistency
 Histogram of Car Prices
 <img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/eac18096-fa49-4cb5-b66f-609959f84d1d" />
 
-Boxplots of price distribution before and after cleaning
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/c49b882b-1d3a-48e5-956c-06da9ab81b39" />
 
-Actual vs Predicted plots with residuals
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/aa6d9333-7cf3-42e6-9f5f-a39b1e20f04e" />
 
-Brand-wise average car prices
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/b25cc60d-7b23-41b0-9165-887e2759845c" />
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/b03c52ec-28c9-4bf2-a5c5-f5ef9eb7d2c8" />
+
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/54746486-95a2-49f0-bcc4-afc5e43a7424" />
+
+<img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/85236e4e-962f-41c3-93f4-4d46ab3f37f6" />
+
 
 🛠️ Tools Used
 Python
