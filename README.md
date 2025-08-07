@@ -1,6 +1,5 @@
-# car-price-prediction
- "Linear regression model to predict car prices with EDA, outlier treatment, and model evaluation"
 🏎️ Car Price Prediction using Linear Regression
+
 This project focuses on predicting car prices using a linear regression model. It involves a full data science pipeline — from data cleaning and exploratory analysis to model training, evaluation, and visualization.
 
 📁 Dataset
@@ -62,6 +61,9 @@ Visualized residuals with and without outliers
 Found that removing outliers improved prediction consistency
 
 📊 Visualizations
+Histogram of Car Prices
+<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/eac18096-fa49-4cb5-b66f-609959f84d1d" />
+
 Boxplots of price distribution before and after cleaning
 
 Actual vs Predicted plots with residuals
